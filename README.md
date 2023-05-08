@@ -1,1 +1,1 @@
-Hello there. I'm Mark.
+Hello there. I'm Mark. I am a second year Computer Science student at the University of Calgary. I am interested in full stack web/app development, game development, and Artificial Intelligence. I love to play videogames and keep up with the latest news in tech.
