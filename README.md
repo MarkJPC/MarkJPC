@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Power Automate, Agno, OpenAI API**
 
-- 👨‍💻 All of my projects are available at [https://markjpc-portfolio.vercel.app/](https://markjpc-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://markjpc-portfolio.vercel.app/](https://markjpc-portfolio.vercel.app/) (IN PROGRESS)
 
 - 💬 Ask me about **my University and Work experience**
 
